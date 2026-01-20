@@ -1,6 +1,6 @@
 ---
-title: "Week 3: Office days"
-date: 2024-05-03
+title: "Release 3: Changing the pain relief question"
+date: 2026-05-01
 description: The benefits of being in the office.
 image:
   src: /images/working-in-the-open.jpeg

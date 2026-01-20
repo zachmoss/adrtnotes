@@ -7,7 +7,7 @@ export default function(eleventyConfig) {
     templates: {
       feed: {
         permalink: '/posts/feed.xml',
-        title: 'NHS notes'
+        title: 'ADRT notes'
       },
       tags: false,
       searchIndex: false,
@@ -15,17 +15,17 @@ export default function(eleventyConfig) {
     },
     header: {
       logotype: {
-        text: 'Team notes'
+        text: 'ADRT notes'
       },
       productName: "",
-      organisationName: "Frankie Roberto"
+      organisationName: "Compassion in Dying"
     },
     footer: {
       copyright: {
         text: '© 2026–2027'
       },
       contentLicence: {
-        text: "This is a personal blog created by Compassion in Dying staff. Views expressed are not necessarily those of the organisation."
+        text: "This is a staff blog created by the Compassion in Dying team. Views expressed are not necessarily those of the organisation."
       },
       logo: false,
       meta: {

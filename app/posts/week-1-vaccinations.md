@@ -1,7 +1,7 @@
 ---
-title: "Release 1: Updating content and terminology
+title: "Release 1: Updating content and terminology"
 date: 2026-01-20
-description: First week. Notes from the NHS vaccination strategy.
+description: First week. Notes from the NHS vaccination strategy
 ---
 
 My first week with the NHS has mostly been getting set up with various systems and accounts, and starting to understand the area I’ll be working in.

@@ -1,6 +1,6 @@
 ---
-title: "Week 4: Meeting the users"
-date: 2024-05-10
+title: "Release 4: Making the PDF interactive and accessible"
+date: 2026-06-10
 description: A research trip to meet vaccination staff. A Thoughtful Thursday talk.
 image:
   src: /images/royal-berkshire-hospital.jpeg

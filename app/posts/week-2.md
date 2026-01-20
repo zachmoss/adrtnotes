@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Getting started"
+title: "Release 2: Removing pregnancy and organ donation"
 date: 2026-04-26
 description: Inspired by Nye.
 image:
