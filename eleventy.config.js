@@ -63,6 +63,6 @@ export default function(eleventyConfig) {
     dir: {
       input: 'app'
     },
-    pathPrefix: process.env.GITHUB_ACTIONS ? '/nhsnotes/' : '/'
+    pathPrefix: '/'
   }
 };
