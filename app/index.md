@@ -7,6 +7,10 @@ pagination:
   data: collections.post
   size: 20
   reverse: true
+aside:
+  title: Summary
+  content: |
+    This is a team blog used to track and publish updates to our advance decision form at Compassion in Dying.
 related:
   sections:
     - title: Team members
