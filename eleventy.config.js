@@ -42,9 +42,9 @@ export default function(eleventyConfig) {
       shortcut: false,
       mask: false
     },
-    themeColor: '#005eb8',
+    themeColor: '#00403a',
     stylesheets: ['/assets/styles.css'],
-    titleSuffix: 'NHS notes from Frankie Roberto',
+    titleSuffix: 'ADRT notes from Compassion in Dying',
     url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
   })
 
